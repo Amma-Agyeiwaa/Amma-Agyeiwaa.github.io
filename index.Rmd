@@ -1,0 +1,36 @@
+---
+title: "Freda Agyeiwaa Agyei-Dwarko"
+image: "frank.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/freda-agyei-dwarko"
+  - label: GitHub
+    url: "https://github.com//Amma-Agyeiwaa"
+  - label: Email
+    url: "mailto:230799473+Amma-Agyeiwaa@users.noreply.github.com"
+output:
+  postcards::trestles
+---
+ 
+##Bio
+
+Freda Agyei-Dwarko is a medical doctor from Ghana and is currently pursuing a Master of Public Health degree at Johns Hopkins University, specializing in Epidemiology, Biostatistics, and Digital Health. As part of this training, she seeks to develop programmming and data analysis skills by taking courses in Statistical computing to better position and equip her engage in clinical research. With two years of clinical experience, she brings a strong foundation in patient care to her academic and research endeavors. Her primary interest lies in Interventional Radiology, where she seeks to integrate clinical expertise with data-driven insights to advance minimally invasive treatments and improve patient outcomes. Her current research focuses on this area, reflecting her aspiration to become an Interventional Radiologist and contribute to innovations in global health.
+
+##Fun facts
+Five fun facts about her are, she loves cooking Ghanaian dishes and trying out foods from different cultures, she is an avid traveler who likes exploring new cities on foot, she journals to relax after a long day's work, her favorite thing to do is sleep,the Japanese art of Kintsugi inspires her to find beuty in imperfection.
+
+##Inspiration
+This is a YouTube Link to my favorite song by Hillsong United. This songs inspires me to move on in every phase of my life
+https://youtu.be/nxxr47zEUxE?si=xyGJ1armCbwl0dnE
+
+##Education
+**Johns Hopkins University Bloomberg School of Public Health** | Baltimore, MD
+Master of Public Health | June 2025 - Present
+
+**University of Cape Coast School of Medical Sciences** | Cape Coast, Ghana
+Bachelor of Medicine and Bachelor of Surgery (MBChB) | August 2016 - October 2022
+
+## Experience
+**Pentecost Hospital Madina** | Medical Doctor | May 2024 - June 2025
+
+**37 Military Hospital** | Medical Doctor | April 2023 - April 2024
